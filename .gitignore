@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 
 notebook/mongodb_demo.ipynb
+notebook/restaurant_success.csv
